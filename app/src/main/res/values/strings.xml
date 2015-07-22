@@ -7,5 +7,6 @@
     <string name="action_settings"/>
     <string name="crime_title_label"/>
     <string name="crime_details_label"/>
-    <string name="crime_solved_label"/>
+    <string name="crime_solved_label">Solved?</string>
+    <string name = "crimes_title">Crimes</string>
 </resources>
